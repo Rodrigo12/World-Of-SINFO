@@ -1,16 +1,14 @@
 World of SINFO
 ===
 
-![THE GAME](http://franciscodias.net/images/wos.png)
+![THE GAME](https://github.com/Rodrigo12/World-Of-SINFO/blob/master/assets/banner.png)
 
-[Click to play!](http://xicombd.github.io/wos)
-
-
+[Click to play!](https://github.com/Rodrigo12/World-Of-SINFO)
 
 Code by Rodrigo Martins & Francisco Dias
 
 Artwork by Ricardo Trigueiro, António Pinto and Francisco Dias
 
-Made with <3 using http://phaser.io/
+Made with ❤️ using http://phaser.io/
 
 http://xxi.sinfo.org/
