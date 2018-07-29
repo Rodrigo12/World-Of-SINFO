@@ -13,4 +13,4 @@ Artwork by Ricardo Trigueiro, António Pinto and Francisco Dias
 
 Made with ❤️ using http://phaser.io/
 
-http://xxi.sinfo.org/
+https://sinfo.org/
